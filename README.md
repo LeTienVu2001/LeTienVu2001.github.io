@@ -162,25 +162,25 @@ Nếu bạn có câu hỏi hay bất cứ vấn đề gì thì có thể liên l
 			   Trong mỗi lần sắp xếp, duyệt mảng theo 2 lượt từ 2 phía khác nhau:
 			   Lượt đi: đẩy phần tử nhỏ về đầu mảng.
 			   Lượt về: đẩy phần tử lớn về cuối mảng.
-			   Ghi nhận lại những đoạn đã sắp xếp nhằm tiết kiệm các phép so sánh thừa.
+			  
 			   Bước 1: l=0; r=n-1; //Đoạn l->r là đoạn cần được sắp xếp
 			   k=n;  //ghi nhận vị trí k xảy ra hoán vị sau cùng
 			   // để làm cơ sơ thu hẹp đoạn l->r
 			   Bước 2:
 			   Bước 2a: j=r; //đẩy phần tử nhỏ về đầu mảng
 			   Trong khi j>l
-			   nếu a[j]<a[j-1] thì {Doicho(a[j],a[j-1]): k=j;}
+			   nếu a[j]<a[j-1] thì {swap(a[j],a[j-1]): k=j;}
 			   j--;
 			   l=k; //loại phần tử đã có thứ tự ở đầu dãy
 			   Bước 2b: j=l
 			   Trong khi j<r
-			   nếu a[j]>a[j+1] thì {Doicho(a[j],a[j+1]); k=j;}
+			   nếu a[j]>a[j+1] thì {swap(a[j],a[j+1]); k=j;}
 			   j++;
 			   r=k; //loại phần tử đã có thứ tự ở cuối dãy
 			   Bước 3: Nếu l<r lặp lại bước 2
 			   Ngược lại: dừng
 			   
-   - Sau đây là code mình viết theo c++:	
+   - Sau đây là code mình viết theo c++: Giá trị mảng được đọc từ file tạo sẵn bên ngoài.	
 
 			  #include<iostream>
 			  #include<fstream>
