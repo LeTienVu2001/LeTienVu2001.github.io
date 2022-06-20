@@ -155,7 +155,7 @@ Nếu bạn có câu hỏi hay bất cứ vấn đề gì thì có thể liên l
 				Output(l);
 			}
 			   
-<h3 align="center"> Phần 2: Thuật toán Shaker dùng danh sách liên kết </h3>
+<h3 align="center"> Phần 2: Thuật toán Shaker Sort dùng danh sách liên kết </h3>
 
 - Ý tưởng thuật toán: Thuật toán Shaker Sort là thuật toán sắp xếp dựa trên Buble Sort.
 			   
