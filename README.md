@@ -51,7 +51,7 @@ Mình tên là Lê Tiến Vũ, hiện tại là sinh viên năm 3 chuyên ngành
 * **Quê quán:** Đăk Nông, Việt Nam
 * **Trích dẫn yêu thích:** Cắm mặt vào laptop, Street Workout, nghe nhạc...
 	
-Nếu bạn có câu hỏi hay bất cứ vấn đề gì thì có thể liên lạc với mình qua Facebook [Tiến Vũ](https://www.facebook.com/AlbertEinstein2001/) hoặc có thể gửi mail cho mình tại email [letienvu878@gmail.com](mailto:letienvu878@gmail.com).
+Nếu bạn có câu hỏi hay bất cứ vấn đề gì thì có thể liên lạc với mình qua Facebook [Tiến Vũ](https://www.facebook.com/shinetotheend/) hoặc có thể gửi mail cho mình tại email [letienvu878@gmail.com](mailto:letienvu878@gmail.com).
 
 <h3 align="center">Sau đây mình sẽ hướng dẫn các bạn một số thuật toán sắp xếp trong Bài giảng Cấu trúc dữ liệu và giải thuật. </h3>
 <h3 align="center"> Phần 1: Thuật toán Interchange Sort dùng danh sách liên kết </h3>
@@ -298,5 +298,5 @@ Nếu bạn có câu hỏi hay bất cứ vấn đề gì thì có thể liên l
 			}
 			 
 * **Họ và tên:** Lê Tiến Vũ
-Nếu bạn có câu hỏi hay bất cứ vấn đề gì thì có thể liên lạc với mình qua Facebook [Tiến Vũ](https://www.facebook.com/AlbertEinstein2001/) hoặc có thể gửi mail cho mình tại email [letienvu878@gmail.com](mailto:letienvu878@gmail.com).
+Nếu bạn có câu hỏi hay bất cứ vấn đề gì thì có thể liên lạc với mình qua Facebook [Tiến Vũ](https://www.facebook.com/shinetotheend/) hoặc có thể gửi mail cho mình tại email [letienvu878@gmail.com](mailto:letienvu878@gmail.com).
 
