@@ -11,13 +11,13 @@
 
 ## 📫 How to reach me:
 <p align="center">
-  <a href="https://www.instagram.com/smilecrush1221/" alt="instagram">
+  <a href="https://www.instagram.com/erais.me/" alt="instagram">
     <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" target="_blank" />
   </a> 
-    <a href="https://www.facebook.com/AlbertEinstein2001/" alt="Facebook">
+    <a href="https://www.facebook.com/shinetotheend/" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
-      <a href="https://www.tiktok.com/@vu_sniper" alt="Tiktok">
+      <a href="https://www.tiktok.com/@erais.me" alt="Tiktok">
     <img src="https://img.icons8.com/fluent/48/000000/tiktok.png" target="_blank" />
   </a> 
   <a href="https://github.com/LeTienVu2001" alt="Github">
