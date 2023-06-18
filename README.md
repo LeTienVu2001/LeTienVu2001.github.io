@@ -49,7 +49,7 @@ Mình tên là Lê Tiến Vũ, hiện tại là sinh viên năm 3 chuyên ngành
 * **Giới tính:** Nam
 * **Nguyên quán:** Hà Tĩnh, Việt Nam
 * **Quê quán:** Đăk Nông, Việt Nam
-* **Trích dẫn yêu thích:** Cắm mặt vào laptop, Street Workout, nghe nhạc...
+* **Trích dẫn yêu thích:** Chơi guitar, Phượt, Cắm mặt vào laptop, Street Workout, Đá bóng, bơi lội, chạy bộ thì lâu lâu :))))
 	
 Nếu bạn có câu hỏi hay bất cứ vấn đề gì thì có thể liên lạc với mình qua Facebook [Tiến Vũ](https://www.facebook.com/shinetotheend/) hoặc có thể gửi mail cho mình tại email [letienvu878@gmail.com](mailto:letienvu878@gmail.com).
 
